@@ -1,4 +1,4 @@
-# react-native-basketball
+# Facebook Basketball Game in React
 
 React-Native clone of the Facebook Basketball game
 
@@ -15,7 +15,7 @@ For React Native 0.45.1
 - `react-native run-ios`
 
 
-Feel free to ask me questions on Twitter [@FaridSafi](https://www.twitter.com/FaridSafi)!
+Feel free to ask me questions on Twitter [@BarakaDacres](https://www.twitter.com/itsBarvka)!
 
 # License
 
