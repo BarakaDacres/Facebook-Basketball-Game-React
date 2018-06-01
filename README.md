@@ -10,7 +10,7 @@ For React Native 0.45.1
 
 ### Installation
 
-- `git clone https://github.com/FaridSafi/react-native-basketball`
+- `git clone https://github.com/BarakaDacres/facebook-basketball-game-react`
 - `cd react-native-basketball && npm install`
 - `react-native run-ios`
 
